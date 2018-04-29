@@ -43,6 +43,7 @@ Example notebooks in R using [rstanarm](https://cran.r-project.org/package=rstan
 
 ### References
 
+* Heinze G1, Wallisch C1, Dunkler D: Variable selection - A review and recommendations for the practicing statistician. Biom J. 2018 Jan 2. doi: 10.1002/bimj.201700067. [Online](http://www.citeulike.org/user/guhjy/article/14577139)
 * Gelman, A., Hwang, J., and Vehtari, A. (2014). Understanding
   predictive information criteria for Bayesian models. Statistics and
   Computing, 24(6):997–1016.
